@@ -1,3 +1,3 @@
-# expression-Toe-moji or expression-To-emoji
+# expression-Toe-moji
 _____
 Takes a expression.Returns a emoji
